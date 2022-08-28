@@ -1,2 +1,2 @@
-# ProjectPhotos
+# Project Photos
 Photos
